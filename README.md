@@ -129,12 +129,12 @@ Transfer learning across **MobileNetV2, EfficientNet-B0, ResNet50**. Diagnosed a
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ NyayaSaathi — Legal AI Agent
-AI legal-aid assistant for common citizens that retrieves relevant **BNS, BNSS and BSA** provisions and explains them in plain language.
+### 🏥 Healthcare Chatbot (RAG)
+End-to-end **AI medical assistant** that answers health questions grounded in trusted medical documents — **FAISS** vector search + **Hugging Face** embeddings + LLM via LangChain, cutting hallucinated answers.
 
-`Agentic AI` `RAG` `LLMs` `Python`
+`LangChain` `FAISS` `Hugging Face` `LLMs`
 
-<a href="https://github.com/Tejasprof84/NyayaSaathi-Legal-Agent"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Tejasprof84/healthcare-chatbot-rag"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -180,7 +180,6 @@ Detection & localisation pipeline with **Ultralytics YOLO11n** — bounding boxe
 
 | Project | What it does | Stack |
 |---|---|---|
-| [🏥 Healthcare Chatbot (RAG)](https://github.com/Tejasprof84/healthcare-chatbot-rag) | Medical Q&A chatbot grounded in documents | LangChain · Hugging Face · FAISS |
 | [📄 RAG + OCR Document QA](https://github.com/Tejasprof84/RAG_ocr_project) | Q&A over scanned documents using OCR + RAG | OCR · RAG · Python |
 | [🏦 Loan Approval Web App](https://github.com/Tejasprof84/LoanApprovalWebAppPrediction) | Predicts loan-approval probability | Flask · scikit-learn |
 | [📩 Spam Message Detector](https://github.com/Tejasprof84/spam_message_detector_Nav_bayes_) | Classifies SMS as spam / ham | Naive Bayes · NLP |
@@ -202,14 +201,14 @@ Detection & localisation pipeline with **Ultralytics YOLO11n** — bounding boxe
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="34" align="top"/> GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejasprof84&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasprof84&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejasprof84&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tejasprof84&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejasprof84&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tejasprof84&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tejasprof84&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
