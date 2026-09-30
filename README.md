@@ -1,16 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<!-- Every visual in this README is a hand-built animated SVG in /assets (generators in /tools). -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Tejas%20Kumar%20S&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20RAG%20%E2%80%A2%20Computer%20Vision&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="header"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="130" alt="AI robot"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tejasprof84">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=720&lines=Building+production-grade+RAG+pipelines+%F0%9F%A7%A0;Agentic+AI+with+LangChain+%2B+LangGraph+%2B+MCP+%F0%9F%A4%96;Computer+Vision+with+YOLO+%26+Transfer+Learning+%F0%9F%91%81%EF%B8%8F;Shipping+models+from+notebook+to+Docker+%F0%9F%9A%80" alt="typing"/>
-  </a>
+  <img src="assets/hero.svg" width="100%" alt="Tejas Kumar S — AI/ML Engineer. Animated 3D embedding-space sphere over a perspective grid."/>
 </p>
 
 <p align="center">
@@ -21,11 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=Tejasprof84&style=for-the-badge&color=24c6dc&label=PROFILE+VIEWS"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34" align="top"/> About Me</h2>
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="AI developer at work"/>
+<img align="right" width="330" src="assets/tensor-cube.svg" alt="Isometric 4×4×4 tensor with a 3×3 convolution kernel sliding across it"/>
 
 ```python
 class TejasKumar:
@@ -46,7 +37,7 @@ class TejasKumar:
 - 📊 I measure what matters — **precision, recall, F1, ROC-AUC, false-negative rate, RMSE** — not just accuracy.
 - 📫 Open to **AI/ML, GenAI/Agentic and Computer Vision Engineer** roles.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="34" align="top"/> Tech Arsenal</h2>
 
@@ -97,9 +88,13 @@ class TejasKumar:
 </td></tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" align="top"/> Featured Projects</h2>
+
+<p align="center">
+  <img src="assets/rag-pipeline.svg" width="100%" alt="Isometric RAG pipeline: ingest, chunk, embed, index, generate, answer"/>
+</p>
 
 <table>
 <tr>
@@ -188,7 +183,7 @@ Detection & localisation pipeline with **Ultralytics YOLO11n** — bounding boxe
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="34" align="top"/> Experience</h2>
 
@@ -196,22 +191,26 @@ Detection & localisation pipeline with **Ultralytics YOLO11n** — bounding boxe
 - Designed and deployed a **RAG-based document search & Q&A system** (LangChain, Pinecone, FAISS) that surfaces context-grounded answers from large document sets.
 - Built preprocessing & feature-engineering pipelines with structured evaluation across **ML, DL, NLP, CV and GenAI** projects.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="34" align="top"/> GitHub Analytics</h2>
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejasprof84&theme=tokyonight" />
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="34" align="top"/> Neural Network in Action</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="34" align="top"/> Models in Action</h2>
 
 <p align="center">
   <img width="100%" src="assets/neural-network.svg" alt="Animated neural network forward pass"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<p align="center">
+  <img width="100%" src="assets/cv-detection.svg" alt="Object detection loop: grid scan, candidate boxes, non-max suppression, final labelled boxes"/>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="34" align="top"/> How I Build</h2>
 
@@ -224,12 +223,12 @@ flowchart LR
     D --> E[🚀 Deploy<br/>FastAPI · Streamlit · Docker]
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="26" align="top"/> <i>"Retrieve the right context, measure honestly, ship to real users."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="assets/footer.svg" width="100%" alt=""/>
 </p>
